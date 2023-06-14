@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt1&Sequence_1",
+        "ColumnCount&Sequence_1",
+        "PresentCount&Sequence_1",
+        "AbsentCount&Sequence_1",
+        "EmpName&Sequence_1",
+        "NullCount&Sequence_1",
+        "TotalDays&Sequence_1",
+        "Percentage&Sequence_1",
+        "Feedback&Sequence_1",
+        "dt2&Sequence_1",
+        "Output_Text&Sequence_1",
+        "dt&Sequence_1",
+        "dt_search&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
